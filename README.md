@@ -24,9 +24,9 @@ I'm a **React & Web Developer** from Nigeria, passionate about building modern, 
 
 ## 🚀 Featured Projects
 
-- [Landing Page Demo](https://github.com/your-username/landing-page) – Modern React landing page with responsive design  
-- [Pricing Page App](https://github.com/your-username/pricing-app) – Pricing cards with Coming Soon navigation  
-- [Crypto Wallet MVP](https://github.com/your-username/crypto-wallet) – Node.js + React MVP for crypto management
+
+- [landing Page](https://github.com/zee-b/tikfetch) – Landing Page with Coming Soon Page  
+
 
 ---
 
