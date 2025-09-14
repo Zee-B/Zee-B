@@ -32,4 +32,5 @@ I'm a **React & Web Developer** from Nigeria, passionate about building modern, 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zee-b
+&show_icons=true&theme=radical)
